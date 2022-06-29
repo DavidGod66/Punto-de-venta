@@ -1,0 +1,46 @@
+F:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+I:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+I:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+I:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+I:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.xml
+I:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Form1.resources
+I:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Resources.resources
+I:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbproj.GenerateResource.Cache
+I:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+I:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.xml
+I:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+F:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+F:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.xml
+F:\Ojeda\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+D:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+D:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+D:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.xml
+D:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+D:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+D:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+D:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.xml
+D:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Form1.resources
+D:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Resources.resources
+D:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbproj.GenerateResource.Cache
+F:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+F:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+F:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.xml
+F:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
+F:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+F:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+F:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.xml
+F:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Form1.resources
+F:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Resources.resources
+F:\[Anteriores Semestres]\Int Programacion 2\Integradora Punto de Venta Bueno\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbproj.GenerateResource.Cache
+C:\Users\drach\Desktop\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe.config
+C:\Users\drach\Desktop\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.exe
+C:\Users\drach\Desktop\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.pdb
+C:\Users\drach\Desktop\Punto de Venta\Punto de Venta\bin\Debug\Punto de Venta.xml
+C:\Users\drach\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbprojAssemblyReference.cache
+C:\Users\drach\Desktop\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\drach\Desktop\Punto de Venta\Punto de Venta\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\drach\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbproj.GenerateResource.cache
+C:\Users\drach\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.vbproj.CoreCompileInputs.cache
+C:\Users\drach\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.exe
+C:\Users\drach\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.xml
+C:\Users\drach\Desktop\Punto de Venta\Punto de Venta\obj\Debug\Punto de Venta.pdb
